@@ -31,7 +31,16 @@ This is a simple chat application built using **C# .NET Web API 8** for the back
    ```bash
    dotnet restore
 5. Build the project:
+   ```bash
    dotnet build
-6. Run the Web API locally:
+7. Run the Web API locally:
+   ```bash
    dotnet run
+
+### Frontend (Vue2)
+
+1. Clone the repository or download the source code for the frontend.
+2. Navigate to the frontend project directory in the terminal.
+
+
    
