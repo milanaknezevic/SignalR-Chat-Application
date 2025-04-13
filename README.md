@@ -41,6 +41,16 @@ This is a simple chat application built using **C# .NET Web API 8** for the back
 
 1. Clone the repository or download the source code for the frontend.
 2. Navigate to the frontend project directory in the terminal.
+3. Install the dependencies using npm:
+   ```bash
+   npm install
+4. Start the development server:
+   ```bash
+   npm run serve
+5. Open your browser and go to http://localhost:8080
+   
+
+
 
 
    
